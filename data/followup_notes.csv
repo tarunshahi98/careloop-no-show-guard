@@ -1,0 +1,31 @@
+note_id,appointment_id,note_text
+N001,A0872,Patient said she never got any reminder message and completely forgot about the visit. Wants to rebook for next week.
+N002,A0897,Lives far from the clinic and could not find any transport that morning. Says the clinic is too far for a routine check-up.
+N003,A0526,Patient felt the consultation fee was too high this month and decided to skip. Asked if there is any discount for follow-ups.
+N004,A0926,
+N005,A0534,"Had high fever and body ache on the day, stayed in bed. Will visit once recovered."
+N006,A0507,"Manager called an urgent meeting at the office, could not leave work. Asked for an evening slot next time."
+N007,A0333,"Bhool gaya, SMS nahi aaya tha. Dobara booking karni hai."
+N008,A0222,"City bus strike that day, no auto available near the colony. Distance is a big problem for him."
+N009,A0977,"Phone was switched off, could not reach the patient after three attempts."
+N010,A0596,Had a shift change at the factory and could not take leave. Prefers Saturday appointments.
+N011,A0764,Was unwell with stomach infection on that day.
+N012,A0121,"No transport available from his village, had to skip."
+N013,A0135,Could not afford the fee this month.
+N014,A0850,Boss refused leave so the visit was missed.
+N015,A0568,"Forgot the appointment completely, no reminder was sent."
+N016,A0818,Was unwell with stomach infection on that day.
+N017,A0815,"Office deadline, could not take time off."
+N018,A0016,Boss refused leave so the visit was missed.
+N019,A0074,"Did not receive any SMS or call reminder, lost track of the date."
+N020,A0335,"Travel takes over two hours each way, so he did not come."
+N021,A0824,"Forgot the appointment completely, no reminder was sent."
+N022,A0423,"Money problem this week, will come when salary arrives."
+N023,A0593,Clinic is too far from home and the bus was very late.
+N024,A0374,"Wrong number on record, call could not be completed."
+N025,A0728,"Did not receive any SMS or call reminder, lost track of the date."
+N026,A0863,Had a family emergency and had to travel out of town.
+N027,A0721,"Child fell ill suddenly, went to the hospital instead."
+N028,A0324,"Wrong number on record, call could not be completed."
+N029,A0585,"No transport available from his village, had to skip."
+N030,A0086,Says the booking slipped her mind because nobody reminded her.
